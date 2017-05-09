@@ -1,0 +1,14 @@
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\bin\Debug\THOR.exe.config
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\bin\Debug\THOR.exe
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\bin\Debug\THOR.pdb
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.csprojResolveAssemblyReference.cache
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.MainForm.resources
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.Properties.Resources.resources
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.csproj.GenerateResource.Cache
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.exe
+c:\users\usaf_admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.pdb
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\THOR\THOR\bin\Debug\THOR.exe.manifest
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\THOR\THOR\bin\Debug\THOR.application
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.exe.manifest
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.application
+C:\Users\USAF_Admin\documents\visual studio 2015\Projects\THOR\THOR\obj\Debug\THOR.AdminForm.resources
